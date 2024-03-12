@@ -1,0 +1,6 @@
+#1. total number of task generated 36
+#2. total number of completed tasks : task with yes 17
+#3. total number of incompleted tasks : tasks with no 15
+#4. total number of incompleted tasks and+ that are overdue 4
+#5. percentage of task that are incomplete: 42% 
+#6. percentage of tasks that are overdue: 11% 

@@ -1,0 +1,34 @@
+~~~~~~~~~~~~~~~~~~~~~ User Overview ~~~~~~~~~~~~~~~~~~~~~~
+admin has total 3 tasks
+admin has completed 2 tasks
+admin has 0 incomplete tasks
+admin has 1 overdue tasks
+admin has 4% of the total tasks
+admin has completed 67% tasks and incomplete 0% and 33% overdue tasks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+waki has total 8 tasks
+waki has completed 3 tasks
+waki has 4 incomplete tasks
+waki has 1 overdue tasks
+waki has 11% of the total tasks
+waki has completed 38% tasks and incomplete 50% and 12% overdue tasks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+nitu has total 18 tasks
+nitu has completed 8 tasks
+nitu has 9 incomplete tasks
+nitu has 1 overdue tasks
+nitu has 25% of the total tasks
+nitu has completed 44% tasks and incomplete 50% and 6% overdue tasks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+lopa has total 6 tasks
+lopa has completed 4 tasks
+lopa has 1 incomplete tasks
+lopa has 1 overdue tasks
+lopa has 8% of the total tasks
+lopa has completed 67% tasks and incomplete 17% and 17% overdue tasks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+new_user has total 0 tasks
+new_user has completed 0 tasks
+new_user has 0 incomplete tasks
+new_user has 0 overdue tasks
+new_user has 0% of the total tasks

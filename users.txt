@@ -1,0 +1,5 @@
+admin;pas
+waki;pass
+nitu;pas
+lopa;rahman
+new_user;new_pass

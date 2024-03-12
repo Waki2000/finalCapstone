@@ -1,0 +1,36 @@
+nitu;fdf;fdf;10-01-2024;yes
+nitu;main;yo;1-2-2024;yes
+nitu;fdf;fdf;10-05-2024;no
+nitu;main;yo;1-2-2024;yes
+nitu;fdf;fdf;10-05-2024;no
+nitu;main;yo;1-2-2024;yes
+nitu;task4;taskkk;2-9-2024;no
+lopa;fdfdf;fdfd;14-01-2024;yes
+nitu;fdf;fdf;10-05-2024;no
+nitu;main;yo;1-2-2024;yes
+nitu;fdf;fdf;10-01-2024;overdue
+nitu;main;yo;1-2-2024;yes
+nitu;task4;taskkk;2-9-2024;no
+nitu;fdf;fdf;10-05-2024;no
+nitu;main;yo;1-2-2024;yes
+nitu;fdf;fdf;10-05-2024;no
+nitu;main;yo;1-2-2024;yes
+nitu;task4;taskkk;2-9-2024;no
+lopa;fdfdf;fdfd;14-06-2024;no
+admin;format;format hardrive;29-01-2024;yes
+lopa;awesome;cute;4-2-2024;yes
+lopa;tas;cuty;5-2-2024;yes
+nitu;nitu6;touring;8-3-2024;no
+admin;format;format hardrive;29-01-2024;overdue
+admin;format;format hardrive;29-02-2024;no
+lopa;fdf;fdf;20-2-2024;yes
+lopa;task6;meeting people;24-02-2024;overdue
+waki;fdf0;fdf;11-01-2024;yes
+[waki;fdf1;fdf;9-6-2024;no]
+[waki;fdf2;fdf;13-03-2024;no]
+waki;fdf3;fdf;10-03-2024;no
+waki;fdf;fdf;10-02-2024;overdue
+waki;fdf;fdf;10-01-2024;yes
+waki;fdf;fdf;10-01-2024;yes
+waki;fdf;fdf;10-03-2024;no
+

@@ -1,0 +1,4 @@
+admin;pas
+waki;pass
+nitu;pas
+lopa;rahman
